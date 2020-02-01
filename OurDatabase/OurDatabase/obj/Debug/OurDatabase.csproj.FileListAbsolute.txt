@@ -1,0 +1,115 @@
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+C:\Users\admin\Documents\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\База Данных\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\База Данных Эксперимент\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\Muzyka_C#.mdb
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\Muzyka_C#_filter.mdb
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\Институт\База Данных Полная\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\Институт\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.ResolveComReference.cache
+C:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+C:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+C:\База Данных Полная\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.ResolveComReference.cache
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form1.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form2.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form3.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form4.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+C:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\База Данных Полная\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.ResolveComReference.cache
+D:\База Данных\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.ResolveComReference.cache
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csprojAssemblyReference.cache
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.ResolveComReference.cache
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Form5.resources
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.Properties.Resources.resources
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.GenerateResource.cache
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.csproj.CoreCompileInputs.cache
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.exe
+D:\Список\OurDatabase\OurDatabase\obj\Debug\OurDatabase.pdb
+D:\Список\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe.config
+D:\Список\OurDatabase\OurDatabase\bin\Debug\OurDatabase.exe
+D:\Список\OurDatabase\OurDatabase\bin\Debug\OurDatabase.pdb
